@@ -1,13 +1,5 @@
-
-
-
-
-
-
-
 import tensorflow as tf
 from tfx import v1 as tfx
-
 
 import tensorflow_model_analysis as tfma
 from tfx.components import CsvExampleGen
