@@ -3,6 +3,6 @@
 # tensorflow==2.8.2
 # tensorflow-model-analysis==0.39.0
 
-requests
-pydantic-settings
-confluent-kafka
+requests==2.31.0
+pydantic-settings==2.0.3
+confluent-kafka==2.2.0
